@@ -21,4 +21,6 @@ describe '#speak_to_grandma' do
 
 end
 
-def speaking_to_grandma
+def speaking_to_grandma(phrase)
+  
+end
