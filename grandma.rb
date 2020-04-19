@@ -1,6 +1,3 @@
-speak_to_gran
-
-if phrase == "I LOVE YOU GRANDMA!"
-    'I LOVE YOU PUMPKIN!'
+def speak_to_grandma(phrase)
+  
 end
-
