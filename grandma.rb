@@ -1,4 +1,4 @@
-speak_to_grandma = "I LOVE YOU GRANDMA"
+speak_to_gran
 
 if phrase == "I LOVE YOU GRANDMA!"
     'I LOVE YOU PUMPKIN!'
